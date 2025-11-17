@@ -8,7 +8,7 @@ Breve descripción de la API REST desarrollada con Spring Boot y Java.
 
 ## 📋 Características
 
-- CRUD completo de [sensor]
+- CRUD completo de [Sensor]
 - Validación de datos
 - Manejo de excepciones global
 - Documentación con Swagger/OpenAPI
