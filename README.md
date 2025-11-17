@@ -1,4 +1,4 @@
-# Nombre del Proyecto API REST
+#  Sensor Advisor Api
 
 [![Java Version](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -8,7 +8,7 @@ Breve descripción de la API REST desarrollada con Spring Boot y Java.
 
 ## 📋 Características
 
-- CRUD completo de [entidad principal]
+- CRUD completo de [sensor]
 - Validación de datos
 - Manejo de excepciones global
 - Documentación con Swagger/OpenAPI
@@ -21,7 +21,7 @@ Breve descripción de la API REST desarrollada con Spring Boot y Java.
 - **Java 17**
 - **Spring Boot 3.x**
 - **Spring Data JPA**
-- **Spring Security** (opcional)
+- **Spring Security**
 - **Maven/Gradle**
 - **Base de datos**: [H2/MySQL/PostgreSQL]
 - **Lombok**
@@ -33,10 +33,10 @@ Breve descripción de la API REST desarrollada con Spring Boot y Java.
 ### Prerrequisitos
 - Java 17 o superior
 - Maven 3.6+ o Gradle 7.x
-- [Base de datos correspondiente] instalada y corriendo
+- PostgreSQL
 
 ### Pasos
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/carlosluquec/tu-proyecto.git
 cd tu-proyecto
