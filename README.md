@@ -38,5 +38,4 @@ Breve descripción de la API REST desarrollada con Spring Boot y Java.
 ### Pasos
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/carlosluquec/tu-proyecto.git
-cd tu-proyecto
+git clone https://github.com/carlosluquec/sensor-advisor-api
