@@ -1,7 +1,7 @@
 #  Sensor Advisor Api
 <!--Technologies-->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
   <img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
   <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PosgreSQL" title="PosgreSQL"/>
 </div>
