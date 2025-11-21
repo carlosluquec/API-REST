@@ -10,7 +10,6 @@ Una API REST desarrollada con Spring Boot para consultar y recomendar sensores b
 
 - CRUD completo de [Sensor]
 - Validación de datos
-- Manejo de excepciones global
 - Documentación con Swagger/OpenAPI
 - Autenticación JWT (opcional)
 - Base de datos [H2/MySQL/PostgreSQL]
