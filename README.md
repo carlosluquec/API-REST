@@ -1,16 +1,10 @@
 #  Sensor Advisor Api
-<!--Technologies-->
-<div>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
-  <img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot"/>
-  <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PosgreSQL" title="PosgreSQL"/>
-</div>
-<!--
+
 [![Java Version](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
--->
-Breve descripción de la API REST desarrollada con Spring Boot y Java.
+
+Una API REST desarrollada con Spring Boot para consultar y recomendar sensores basados en especificaciones técnicas y fichas técnicas (datasheets).
 
 ## 📋 Características
 
